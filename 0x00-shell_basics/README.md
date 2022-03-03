@@ -1,0 +1,1 @@
+A directory holding all specific projects on working with shell
